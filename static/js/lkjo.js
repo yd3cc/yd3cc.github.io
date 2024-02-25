@@ -1,16 +1,16 @@
 var link = {
     //开云
-    kyPc: 'https://www.tj5nsc.com:9512/register/?i_code=82761710',                //ky电脑
-    kyH5: 'https://www.sectqu.com:9518/entry/register/?i_code=82761710',          //ky h5
-    kyApp: 'https://www.r5kmr6.xyz:9520/?i_code=82761710',                        //ky aap
+    kyPc: 'https://www.an2pz.shop:7700/?agent_code=50385405',                //ky电脑
+    kyH5: 'https://www.nlw9b.com:9960/?agent_code=50385405',          //ky h5
+    kyApp: 'https://www.keg0l.com:7777/?i_code=50385405',                        //ky aap
     
-    kyby: 'https://www.r5kmr6.xyz:9520/?i_code=82761710',  //ky beiyongwang
+    kyby: 'https://www.keg0l.com:7777/?i_code=50385405',  //ky beiyongwang
     //客服                                                        
-    contact: 'https://www.r5kmr6.xyz:9520/?i_code=82761710',                                
+    contact: 'https://www.keg0l.com:7777/?i_code=50385405',                                
     //开云链接
-    kylianjie1: 'https://www.tkj5ux.com:9501/register/?i_code=82761710',
-    kylianjie: 'https://www.vahts.vip:8553/entry/register/?i_code=82761710',
-    kylianjie2: 'https://www.i9zpc.vip:9018/?i_code=82761710',
+    kylianjie1: 'https://www.keg0l.com:7777/?i_code=50385405',
+    kylianjie: 'https://www.keg0l.com:7777/?i_code=50385405',
+    kylianjie2: 'https://www.keg0l.com:7777/?i_code=50385405',
 }
 
 function getDevice() {
