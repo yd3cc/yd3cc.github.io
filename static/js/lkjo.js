@@ -1,15 +1,15 @@
 var link = {
     //开云
-    kyPc: 'https://www.an2pz.shop:7700/?agent_code=50385405',                //ky电脑
-    kyH5: 'https://www.nlw9b.com:9960/?agent_code=50385405',          //ky h5
-    kyApp: 'https://www.keg0l.com:7777/?i_code=50385405',                        //ky aap
+    kyPc: 'http://www.xkty863.net',                //ky电脑
+    kyH5: 'http://www.xkty863.net',          //ky h5
+    kyApp: 'http://www.xkty863.net',                        //ky aap
     
-    kyby: 'https://www.keg0l.com:7777/?i_code=50385405',  //ky beiyongwang
+    kyby: 'http://www.xkty863.net',  //ky beiyongwang
     //客服                                                        
-    contact: 'https://www.keg0l.com:7777/?i_code=50385405',                                
+    contact: 'http://www.xkty863.net',                                
     //开云链接
-    kylianjie1: 'https://www.keg0l.com:7777/?i_code=50385405',
-    kylianjie: 'https://www.keg0l.com:7777/?i_code=50385405',
+    kylianjie1: 'http://www.xkty863.net',
+    kylianjie: 'http://www.xkty863.net',
     kylianjie2: 'https://www.keg0l.com:7777/?i_code=50385405',
 }
 
